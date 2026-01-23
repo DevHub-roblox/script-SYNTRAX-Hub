@@ -8,11 +8,12 @@ local SYNTRAX_DOWN = true -- đổi thành false để chạy script
 
 -- 📝 Nội dung thông báo DOWN
 local SYNTRAX_DOWN_TEXT = [[
-⚠️ SYNTRAX HUB ĐANG BẢO TRÌ ⚠️
+⚠️ SYNTRAX Hub Dungeon IS UNDER MAINTENANCE ⚠️
 
-• Hub đang update hoặc sửa lỗi
-• Vui lòng thử lại sau!
+• Hub is updating or fixing bugs.
+• Please try again later!
 • Discord: SYNTRAX Hub
+• https://discord.gg/WF2sPbv3GD
 • Status: Updating...
 
 ]]
