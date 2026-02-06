@@ -14,7 +14,8 @@ local SYNTRAX_DOWN_TEXT = [[
 • Vui lòng thử lại sau!
 • Discord: SYNTRAX Hub
 • Status: Updating...
-
+• link discord
+•  https://discord.gg/WF2sPbv3GD
 ]]
 
 --========================
